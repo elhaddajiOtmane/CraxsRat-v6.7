@@ -7,7 +7,7 @@
 - ✔️Cut off internet access for any app
 - ✔️New Automated Permissions for Oppo & Xiaomi
 - ✔️Automatically grant Battery & Background permissions 
------------------------------------------------------
+
 #### ⚙️Comman Feature !!!
 
 - 📌 Manager : Files , Sms , Contacts , Calls , Accounts 
