@@ -12,13 +12,13 @@
 #### ⚙️Comman Feature !!!
 
 - 📌 Manager : Files , Sms , Contacts , Calls , Accounts 
- - 📌Monitor : Live screen, Screen Control, Camera, Mic, Keylogger, Location, Web Browser, Call Recorder
+- 📌 Monitor : Live screen, Screen Control, Camera, Mic, Keylogger, Location, Call Recorder
 - 📌 Admin   : Request Admin Right, Lock Screen, Wipe Data
-- 📌Tool    : Call Number, Download Apk, Show Message, Clip Board, Open Link, Shell Command
-- 📌Extra   : Notification Listner, Social Media Hunter, Phone Information
+- 📌 Tool    : Call Number, Download Apk, Clip Board, Shell Command
+- 📌 Extra   : Notification Listner, Social Media Hunter, Phone Information
 - 📌 Connection: Restart Connection, Block Client, Disable Anti Kill, Self Destuction
 - 📌 Keyboard(Beta): Set Your Keyboard and moniter the type key
-- 📌Client Folder: Check your download in client folder 
+- 📌 Client Folder: Check your download in client folder 
 ##### Supported languages: English, Arabic, Chinese, Turkish, Portuguese Brazil, Russian.,Spanish
 
 ## Support
