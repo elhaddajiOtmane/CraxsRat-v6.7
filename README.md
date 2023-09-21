@@ -6,7 +6,6 @@
 
  #### 🧲What is New Update:
  
-#### 👻 [Join Here](https://t.me/hackfilter)
 - ✔️Helps bypass Android 13 Accessibility restrictions
 - ✔️Self-hides after dropping the payload
 - ✔️Monitor selected apps
