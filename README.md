@@ -1,6 +1,8 @@
 
 # Craxs Rat V-6.7
-# 🎯[Join Us](https://t.me/hackfilter)
+這款滑鼠還支援中文
+加入我們，了解更多關於滑鼠的信息 
+# 加入我們，了解更多關於滑鼠的信息 🎯[Join Us](https://t.me/hackfilter)
 ### Screenshot
 ![mstsc_y0v3GkFiVX](https://github.com/Lepo0X/CraxsRat-v6.7/assets/145641717/c9390cec-b0bd-4ed6-9fa5-b0e3f18769a6)
 ![ZS](https://github.com/Lepo0X/CraxsRat-v6.7/assets/145641717/aa7281ed-73b7-4478-8353-095f18c38441)
@@ -24,7 +26,7 @@
 - 📌 Connection: Restart Connection, Block Client, Disable Anti Kill, Self Destuction
 - 📌 Keyboard(Beta): Set Your Keyboard and moniter the type key
 - 📌 Client Folder: Check your download in client folder 
-##### Many More Feauture Checkout Here 📌[join here](https://t.me/hackfilter)
+##### Many More Feauture
 ##### Supported languages: English, Arabic, Chinese, Turkish, Portuguese Brazil, Russian.,Spanish
 
 
