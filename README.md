@@ -1,32 +1,31 @@
-
 # Craxs Rat V-6.7
-這款滑鼠還支援中文
-加入我們，了解更多關於滑鼠的信息 
-# 加入我們，了解更多關於滑鼠的信息 🎯[Join Us](https://t.me/hackfilter)
+This mouse also supports Chinese.
+Join us to learn more about mouse information.
+[Join Us](https://t.me/hackfilter)
+
 ### Screenshot
 ![mstsc_y0v3GkFiVX](https://github.com/Lepo0X/CraxsRat-v6.7/assets/145641717/c9390cec-b0bd-4ed6-9fa5-b0e3f18769a6)
 ![ZS](https://github.com/Lepo0X/CraxsRat-v6.7/assets/145641717/aa7281ed-73b7-4478-8353-095f18c38441)
 
- #### 🧲What is New Update:
- 
-- ✔️Helps bypass Android 13 Accessibility restrictions
-- ✔️Self-hides after dropping the payload
-- ✔️Monitor selected apps
-- ✔️Cut off internet access for any app
-- ✔️New Automated Permissions for Oppo & Xiaomi
-- ✔️Automatically grant Battery & Background permissions 
+#### 🧲 What is New Update:
 
-#### ⚙️Comman Feature !!!
+- ✔️ Helps bypass Android 13 Accessibility restrictions
+- ✔️ Self-hides after dropping the payload
+- ✔️ Monitor selected apps
+- ✔️ Cut off internet access for any app
+- ✔️ New Automated Permissions for Oppo & Xiaomi
+- ✔️ Automatically grant Battery & Background permissions
 
-- 📌 Manager : Files , Sms , Contacts , Calls , Accounts 
-- 📌 Monitor : Live screen, Screen Control, Camera, Mic, Keylogger, Location, Call Recorder
-- 📌 Admin   : Request Admin Right, Lock Screen, Wipe Data
-- 📌 Tool    : Call Number, Download Apk, Clip Board, Shell Command
-- 📌 Extra   : Notification Listner, Social Media Hunter, Phone Information
-- 📌 Connection: Restart Connection, Block Client, Disable Anti Kill, Self Destuction
-- 📌 Keyboard(Beta): Set Your Keyboard and moniter the type key
-- 📌 Client Folder: Check your download in client folder 
-##### Many More Feauture
-##### Supported languages: English, Arabic, Chinese, Turkish, Portuguese Brazil, Russian.,Spanish
+#### ⚙️ Common Features:
 
+- 📌 Manager: Files, SMS, Contacts, Calls, Accounts
+- 📌 Monitor: Live screen, Screen Control, Camera, Mic, Keylogger, Location, Call Recorder
+- 📌 Admin: Request Admin Right, Lock Screen, Wipe Data
+- 📌 Tool: Call Number, Download Apk, Clipboard, Shell Command
+- 📌 Extra: Notification Listener, Social Media Hunter, Phone Information
+- 📌 Connection: Restart Connection, Block Client, Disable Anti Kill, Self Destruction
+- 📌 Keyboard (Beta): Set Your Keyboard and monitor the typed keys
+- 📌 Client Folder: Check your downloads in the client folder
 
+##### Many More Features
+##### Supported languages: English, Arabic, Chinese, Turkish, Portuguese Brazil, Russian, Spanish
